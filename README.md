@@ -15,6 +15,9 @@ https://codepen.io/harry-muzart-1/
 Google Cloud Platform: APIs, BigData BigQuery MachineLearning.
 Tensorflow.js
 
+.. image:: https://zenodo.org/badge/doi/10.5281/zenodo.18767.svg
+   :target: http://dx.doi.org/10.5281/zenodo.18767
+
 
 ### Go to site A
 
