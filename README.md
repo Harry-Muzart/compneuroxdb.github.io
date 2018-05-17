@@ -10,6 +10,12 @@ Fork this repo, make edits to the csv file, and forward pull requests.
 Log a new Issue.
 
 
+
+https://codepen.io/harry-muzart-1/
+Google Cloud Platform: APIs, BigData BigQuery MachineLearning.
+Tensorflow.js
+
+
 ### Go to site A
 
 https://harry-muzart.github.io/compneuroxdb.github.io/
