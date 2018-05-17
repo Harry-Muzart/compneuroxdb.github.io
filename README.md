@@ -1,6 +1,19 @@
 ### Go to CompNeuroDB
 
 https://sites.google.com/view/compneuroxdb
+https://sites.google.com/view/compneuroxdb
+https://sites.google.com/view/compneuroxdb
+
+
+To make commits to the database: 
+Fork this repo, make edits to the csv file, and forward pull requests.
+Log a new Issue.
+
+
+### Go to site A
+
+https://harry-muzart.github.io/compneuroxdb.github.io/
+
 
 
 ## Welcome to GitHub Pages
