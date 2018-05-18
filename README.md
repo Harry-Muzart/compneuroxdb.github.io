@@ -4,9 +4,9 @@ https://sites.google.com/view/compneuroxdb
 https://sites.google.com/view/compneuroxdb
 https://sites.google.com/view/compneuroxdb
 
-https://sites.google.com/site/compneurodbx/home
-https://sites.google.com/site/compneurodbx/home
-https://sites.google.com/site/compneurodbx/home
+https://sites.google.com/site/compneurodbx
+https://sites.google.com/site/compneurodbx
+https://sites.google.com/site/compneurodbx
 
 
 
