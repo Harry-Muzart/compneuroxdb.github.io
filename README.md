@@ -4,6 +4,12 @@ https://sites.google.com/view/compneuroxdb
 https://sites.google.com/view/compneuroxdb
 https://sites.google.com/view/compneuroxdb
 
+https://sites.google.com/site/compneurodbx/home
+https://sites.google.com/site/compneurodbx/home
+https://sites.google.com/site/compneurodbx/home
+
+
+
 
 To make commits to the database: 
 Fork this repo, make edits to the csv file, and forward pull requests.
