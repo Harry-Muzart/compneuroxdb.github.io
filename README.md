@@ -37,7 +37,7 @@ https://harry-muzart.github.io/compneuroxdb.github.io/
 
 
 
-## Welcome to GitHub Pages
+## Notes from GitHub Pages Admin:
 
 You can use the [editor on GitHub](https://github.com/Harry-Muzart/compneuroxdb.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
