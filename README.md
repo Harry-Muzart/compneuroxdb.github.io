@@ -9,12 +9,18 @@ https://sites.google.com/site/compneurodbx
 https://sites.google.com/site/compneurodbx
 
 
-
-
 To make commits to the database: 
-Fork this repo, make edits to the csv file, and forward pull requests.
+Fork this repo, make edits to the CSV file, and forward pull requests.
 Log a new Issue.
 
+
+Currently using Google Sites, Google Drive, Google Docs, and Google Spreadsheets.
+
+I will soon use:
+
+Apache, PHP, VS C++, SQL, MySQL, MS Access, Php-my-Admin, WebServer, JvScript.
+This will allow me to create a massive open source database with functional (tree-based) sub-structures and relational object classes.
+As shown in the demo here: https://demo.phpmyadmin.net/master-config/index.php
 
 
 https://codepen.io/harry-muzart-1/
